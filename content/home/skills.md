@@ -1,6 +1,6 @@
 ---
 widget: featurette
-widget_id: testest
+widget_id: skillltest
 headless: true
 weight: 30
 title: Skills
