@@ -7,13 +7,13 @@ title: Skills
 subtitle: null
 feature:
   - description: 90%
-    icon: r-project
+    icon: python
     icon_pack: fab
-    name: R
+    name: Python
   - description: 100%
-    icon: chart-line
+    icon: java
     icon_pack: fas
-    name: Statistics
+    name: java
   - description: 10%
     icon: camera-retro
     icon_pack: fas
