@@ -12,11 +12,11 @@ feature:
     name: Python
   - description: 100%
     icon: java
-    icon_pack: fas
+    icon_pack: fab
     name: java
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: 60%
+    icon: aws
+    icon_pack: fab
+    name: AWS
 active: true
 ---
