@@ -21,7 +21,7 @@ experience:
     date_start: 2016-01-01
     date_end: 2016-12-31
     description: Taught electronic engineering and researched semiconductor physics.
-widget_id: testest
+widget_id: testest experience
 headless: true
 weight: 40
 title: Experience
