@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Texas at Arlington
+    url: www.uta.edu
 education:
   courses:
     - course: MS in Computer Science
@@ -38,4 +38,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Test test
+Tobias Kroll is a Masters Student at the University of Texas at Arlington with concentrations in Artificial Intelligence and Computer Architecture.
