@@ -2,29 +2,24 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    location: California
-    date_start: 2017-01-01
-    date_end: ""
+  - title: Graduate Teaching Assistant
+    company: UTA
+    company_url: "www.uta.edu"
+    location: Arlington, Texas
+    date_start: 2020-08-01
+    date_end: present
     description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor
-    company: University X
+        Chemistry for Engineers Laboratory
+  - title: Freelance Harpist
+    company: self-employed
     company_url: ""
-    location: California
-    date_start: 2016-01-01
-    date_end: 2016-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
-widget_id: testest experience
+    location: DFW Metroplex
+    date_start: 2010-01-01
+    date_end: present
+    description: Performed for weddings, company events, and coffee shop settings, individually and in ensemble
+widget_id:
 headless: true
 weight: 40
 title: Experience
 subtitle: null
 ---
-testest experience
